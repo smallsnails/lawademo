@@ -1,5 +1,5 @@
 {
-    "name": "snail/demo",
+    "name": "lawademo/demo",
     "type": "library",
     "autoload": {
         "psr-4": {
