@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Snail\\Demo\\": "src/"
+            "Lawademo\\Demo\\": "src/"
         }
     },
     "require": {
