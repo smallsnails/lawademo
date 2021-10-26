@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Lawademo;
+namespace Lawademo\Test;
 
 
 class Test
